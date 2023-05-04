@@ -50,6 +50,7 @@ const Welcome: React.FC<Props> = ({ navigation }) => {
             <Text style={Style.descText}>{Strings.lorem_ispem}</Text>
           </View>
         </View>
+        
         {/* Third Image */}
         <View style={Style.slide3}>
           <Image
